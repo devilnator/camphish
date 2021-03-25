@@ -26,7 +26,7 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
 <p>This tool require PHP for webserver, SSH or serveo link. First run following command on your terminal</p>
 
 ```
-sydoapt-get -y install php openssh-server ssh git wget
+sudo apt-get -y install php openssh-server ssh git wget
 ```
 
 ## Installing (Kali Linux/Termux):
