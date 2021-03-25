@@ -33,7 +33,7 @@ apt-get -y install php openssh git wget
 
 ```
 git clone https://github.com/devilnator/camphish
-cd CamPhish
+cd camphish
 bash camphish.sh
 ```
 
